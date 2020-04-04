@@ -1,0 +1,24 @@
+.big_title {
+    color           : #eeeeee;
+    font-size       : 15em;
+    vertical-align  : middle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.little_title {
+   color           : #eeeeee;
+    font-size       : 7em;
+    vertical-align  : middle;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    clear: both;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+.center {
+    width: 800px;
+  }
