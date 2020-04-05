@@ -1,15 +1,15 @@
 .big_title {
     color           : #eeeeee;
-    font-size       : 15em;
+    font-size       : 4em;
     vertical-align  : middle;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .little_title {
    color           : #eeeeee;
-    font-size       : 7em;
+    font-size       : 2em;
     vertical-align  : middle;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     clear: both;
 }
 
